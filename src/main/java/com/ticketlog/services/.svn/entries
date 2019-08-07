@@ -1,0 +1,52 @@
+8
+
+dir
+5694
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/services
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal
+
+
+
+2018-09-24T16:37:26.624566Z
+5404
+chandrasekhar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a2471486-efca-11e2-b7a8-655783aed93a
+
+UserDetailServiceImpl.java
+file
+
+
+
+
+2019-01-29T06:19:37.487000Z
+652842ac826a1df21d2c27ee73baccda
+2018-09-24T16:37:26.624566Z
+5404
+chandrasekhar
+
+UserMasterService.java
+file
+
+
+
+
+2019-01-29T06:19:37.507000Z
+db0fd337ab99841ee4c4437faa08f766
+2018-09-24T16:37:26.624566Z
+5404
+chandrasekhar
+

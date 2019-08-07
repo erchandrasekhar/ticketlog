@@ -1,0 +1,130 @@
+8
+
+dir
+5694
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal/branches/PROJECT_FILE/Source%20code/TICKETLOG
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal
+
+
+
+2019-01-18T16:05:28.255457Z
+5694
+chandrasekhar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a2471486-efca-11e2-b7a8-655783aed93a
+
+..sonarDemo
+dir
+
+.classpath
+file
+
+
+
+
+2019-01-29T06:19:35.697000Z
+14f726740d4f5784f3b7a8dfa115e8aa
+2018-10-01T17:42:43.586352Z
+5439
+chandrasekhar
+
+.gitignore
+file
+
+
+
+
+2019-01-29T06:19:36.244000Z
+1309130cd8bff0b60db5c787d7a0d7a0
+2018-09-19T18:31:29.644411Z
+5333
+chandrasekhar
+
+.mvn
+dir
+
+.project
+file
+
+
+
+
+2019-01-29T06:19:36.094000Z
+f47243256fbabf7e6ae2d6eddfdc1fb0
+2018-10-09T16:37:14.385041Z
+5512
+chandrasekhar
+
+.settings
+dir
+
+.springBeans
+file
+
+
+
+
+2019-01-29T06:20:01.252000Z
+1493794726c2b3c919e537df6c5bc4c3
+2018-09-19T18:31:29.644411Z
+5333
+chandrasekhar
+
+logs
+dir
+
+mvnw
+file
+
+
+
+
+2019-01-29T06:19:36.259000Z
+e8f83a7b14fab3e8878a3f5614da6a5e
+2018-09-19T18:31:29.644411Z
+5333
+chandrasekhar
+
+mvnw.cmd
+file
+
+
+
+
+2019-01-29T06:20:01.281000Z
+6b690e52f5699d2a10d94d77d94a9c0c
+2018-09-19T18:31:29.644411Z
+5333
+chandrasekhar
+
+pom.xml
+file
+
+
+
+
+2019-01-29T06:20:01.293000Z
+4777a77e9d0a6b7e4df03754cf3d712a
+2018-11-30T15:21:51.131672Z
+5654
+chandrasekhar
+
+src
+dir
+
+target
+dir
+

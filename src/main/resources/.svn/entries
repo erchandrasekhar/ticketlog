@@ -1,0 +1,55 @@
+8
+
+dir
+5694
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/resources
+http://online.assam.gov.in/kdrepos/AssamOnlinePortal
+
+
+
+2018-12-17T18:02:25.325269Z
+5667
+chandrasekhar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a2471486-efca-11e2-b7a8-655783aed93a
+
+application.properties
+file
+
+
+
+
+2019-01-29T06:19:38.786000Z
+24c2090557c0e0d2a6bfe80b2be7dc2d
+2018-12-17T18:02:25.325269Z
+5667
+chandrasekhar
+
+com
+dir
+
+log4j2.Properties
+file
+
+
+
+
+2019-01-29T06:19:38.769000Z
+c632240fd10f32bc7954bc260d01f06d
+2018-11-30T15:21:51.131672Z
+5654
+chandrasekhar
+

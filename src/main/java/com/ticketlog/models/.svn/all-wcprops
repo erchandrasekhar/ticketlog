@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/kdrepos/AssamOnlinePortal/!svn/ver/5663/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models
+END
+UserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/kdrepos/AssamOnlinePortal/!svn/ver/5458/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/UserRole.java
+END
+InstanceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/kdrepos/AssamOnlinePortal/!svn/ver/5563/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/InstanceType.java
+END
+Ticket.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/kdrepos/AssamOnlinePortal/!svn/ver/5663/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/Ticket.java
+END
+Remark.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/kdrepos/AssamOnlinePortal/!svn/ver/5518/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/Remark.java
+END
+UserMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/kdrepos/AssamOnlinePortal/!svn/ver/5565/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/UserMaster.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/kdrepos/AssamOnlinePortal/!svn/ver/5458/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/Role.java
+END
+CustomUserMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/kdrepos/AssamOnlinePortal/!svn/ver/5404/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/CustomUserMaster.java
+END
+DeveloperRemarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/kdrepos/AssamOnlinePortal/!svn/ver/5519/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/DeveloperRemarks.java
+END
+SubTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/kdrepos/AssamOnlinePortal/!svn/ver/5663/branches/PROJECT_FILE/Source%20code/TICKETLOG/src/main/java/com/ticketlog/models/SubTicket.java
+END
